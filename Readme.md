@@ -1,5 +1,5 @@
 
-#Retrofit RC car
+# Retrofit RC car
 
 TL;DR
 
@@ -9,9 +9,9 @@ I retrofit an old RC car with ESP32-CAM module and wrote an
 
 
 
-|   |   |   |   |   |
-|---|---|---|---|---|
-| [![a test rig with a RC car](media/testrig.gif "a test rig with a RC car")<br> click for higher quality video](media/testrig.mp4)  |   |   [![a test rig with a RC car](media/drive.gif "test drive")<br> click for higher quality video](media/drive.mp4)|   |   |
+|   |   |   | 
+|---|---|---|
+| [![a test rig with a RC car](media/testrig.gif "a test rig with a RC car")<br> click for higher quality video](media/testrig.mp4)  |   |   [![a test rig with a RC car](media/drive.gif "test drive")<br> click for higher quality video](media/drive.mp4)|  
 
 
 
