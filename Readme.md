@@ -28,6 +28,12 @@ besides an old RC car stripped of the electronics you need:
 
 so the total cost should be below 50 Euro
 
+### The Assembly
+
+|   |   |   | 
+|---|---|---|
+| <img src="media/assembly1.jpg" height="400"> | <img src="media/assembly2.jpg" height="400"> |
+
 
 
 
