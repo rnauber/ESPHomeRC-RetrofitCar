@@ -4,7 +4,7 @@
 TL;DR
 
 I retrofit an old RC car with ESP32-CAM module and wrote an  
-<a href="https://github.com/rnauber/ESPHomeRC">Open Source Android app ESPHomeRC <img src="https://raw.githubusercontent.com/rnauber/ESPHomeRC/master/logo3.png" height="16" ></a> to control it via WiFi.  
+<a href="https://github.com/rnauber/ESPHomeRC">Open Source Android app <img src="https://raw.githubusercontent.com/rnauber/ESPHomeRC/master/logo3.png" height="16" > ESPHomeRC</a> to control it via WiFi.  
 
 
 
@@ -42,7 +42,7 @@ so the total cost should be below 50 Euro
 It is based on <a href="https://esphome.io/"><img src="https://esphome.io/_images/logo-text.png" height="16" ></a>. You just describe your setup in a yaml file and a firmware will be generated.
 
 ### Preparation
-<a href="https://esphome.io/guides/getting_started_command_line.html#installation">Install <img src="https://esphome.io/_images/logo-text.png" height="16" ></a>
+<a href="https://esphome.io/guides/getting_started_command_line.html#installation">Install  <img src="https://esphome.io/_images/logo-text.png" height="16" > ESPHomeRC</a>
 
 ### Build  and upload
 
