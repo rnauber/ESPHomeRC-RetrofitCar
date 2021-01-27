@@ -52,7 +52,7 @@ esphome rccar.yaml run
 
 ## The software
 
-<a href="https://github.com/rnauber/ESPHomeRC">Open Source Android app ESPHomeRC <img src="https://raw.githubusercontent.com/rnauber/ESPHomeRC/master/logo3.png" height="16" ></a>
+<a href="https://github.com/rnauber/ESPHomeRC">Open Source Android app <img src="https://raw.githubusercontent.com/rnauber/ESPHomeRC/master/logo3.png" height="16" > ESPHomeRC</a>
 
 
 
