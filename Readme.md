@@ -42,7 +42,7 @@ so the total cost should be below 50 Euro
 It is based on <a href="https://esphome.io/"><img src="https://esphome.io/_images/logo-text.png" height="16" ></a>. You just describe your setup in a yaml file and a firmware will be generated.
 
 ### Preparation
-<a href="https://esphome.io/guides/getting_started_command_line.html#installation">Install  <img src="https://esphome.io/_images/logo-text.png" height="16" > ESPHomeRC</a>
+<a href="https://esphome.io/guides/getting_started_command_line.html#installation">Install  <img src="https://esphome.io/_images/logo-text.png" height="16"></a>
 
 ### Build  and upload
 
