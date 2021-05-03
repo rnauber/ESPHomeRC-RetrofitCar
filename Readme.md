@@ -37,8 +37,8 @@ so the total cost should be below 50 Euro
 
 |ESP Pin |              | 
 |--------|--------------|
-|GPIO3   | hbridge_in1 |
-|GPIO2   | hbridge_in2 |
+|GPIO3 / VOR  | hbridge_in1 |
+|GPIO2     | hbridge_in2 |
 |GPIO14   | hbridge_in3 |
 |GPIO15   | hbridge_in4 |
 |GPIO12   | hbridge_en1 |
