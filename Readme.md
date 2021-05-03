@@ -35,7 +35,14 @@ so the total cost should be below 50 Euro
 | <img src="media/assembly1.jpg" height="400"> | <img src="media/assembly2.jpg" height="400"> |
 
 
-
+|ESP Pin |              | 
+|--------|--------------|
+|GPIO3   | hbridge_in1 |
+|GPIO2   | hbridge_in2 |
+|GPIO14   | hbridge_in3 |
+|GPIO15   | hbridge_in4 |
+|GPIO12   | hbridge_en1 |
+|GPIO13   | hbridge_en2 |
 
 ## The Firmware
 [The firmware](firmware/rccar.yaml) is completely open and easily hackable. 
