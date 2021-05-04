@@ -66,7 +66,7 @@ Get a *3.3V USB to serial adapter* (like [this](https://www.amazon.de/gp/product
 
 
 ```
-esphome rccar.yaml run 
+> esphome rccar.yaml run 
 
 ...
 RAM:   [=         ]  13.4% (used 43816 bytes from 327680 bytes)
@@ -74,7 +74,7 @@ Flash: [=====     ]  51.4% (used 942546 bytes from 1835008 bytes)
 Configuring upload protocol...
 ...
 ```
-Now briefly press "RST".
+Now briefly press "**RST**".
 ```
 Connecting........
 Chip is ESP32-D0WDQ6 (revision 1)
@@ -90,7 +90,6 @@ Compressed 15872 bytes to 10319...
 Writing at 0x00001000... (100 %)
 ...
 ```
-
 
 
 ## The software
