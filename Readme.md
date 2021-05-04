@@ -35,14 +35,14 @@ so the total cost should be below 50 Euro
 | <img src="media/assembly1.jpg" height="400"> | <img src="media/assembly2.jpg" height="400"> |
 
 
-|ESP Pin |              | 
+|ESP Pin |   H Bridge           | 
 |--------|--------------|
-|GPIO3 / VOR  | hbridge_in1 |
-|GPIO2     | hbridge_in2 |
-|GPIO14   | hbridge_in3 |
-|GPIO15   | hbridge_in4 |
-|GPIO12   | hbridge_en1 |
-|GPIO13   | hbridge_en2 |
+|GPIO3 / VOR  | in1 |
+|GPIO2     | in2 |
+|GPIO14   | in3 |
+|GPIO15   | in4 |
+|GPIO12   | en1 |
+|GPIO13   | en2 |
 
 ## The Firmware
 [The firmware](firmware/rccar.yaml) is completely open and easily hackable. 
@@ -53,13 +53,24 @@ It is based on <a href="https://esphome.io/"><img src="https://esphome.io/_image
 
 ### Build  and upload
 
+Get a *3.3V USB to serial adapter* (like [this](https://www.amazon.de/gp/product/B089YTXK8V?psc=1)) and connect it:
+
+|ESP Pin |  ... to         | 
+|--------|--------------|
+|GPIO0  | GND |
+|3.3V     | 3.3V |
+|VCR  | RX |
+|VCT   | TX  |
+|GND  | GND  |
+
+
+
 ```
 esphome rccar.yaml run 
 ```
 
 ## The software
-
-<a href="https://github.com/rnauber/ESPHomeRC">Open Source Android app <img src="https://raw.githubusercontent.com/rnauber/ESPHomeRC/master/logo3.png" height="16" > ESPHomeRC</a>
+Then you can control your vehicle with this <a href="https://github.com/rnauber/ESPHomeRC">Open Source Android app <img src="https://raw.githubusercontent.com/rnauber/ESPHomeRC/master/logo3.png" height="16" > ESPHomeRC</a>.
 
 
 
